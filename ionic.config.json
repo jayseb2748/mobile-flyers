@@ -1,0 +1,8 @@
+{
+  "name": "mobile-flyers",
+  "app_id": "d787ffdd",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
